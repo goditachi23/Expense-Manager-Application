@@ -60,11 +60,4 @@ A simple web application to help users manage and visualize their monthly income
 
 ## Browser Compatibility
 
-The application works on all modern browsers that support:
-- localStorage
-- ES6 JavaScript
-- Chart.js
-
-## License
-
-This project is open source and available under the MIT License. 
+The application works on all modern browsers.
